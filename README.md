@@ -70,9 +70,23 @@ This project is to present an indepth analysis of Amazon products,using Microsof
 
   ## DASHBOARD HIGHLIGHTS
 
-   ### Excel Dashboard with Charts and KPI cards.
-    #### Charts for:
-    #### KPI cards for:
+  ### Excel Dashboard with Charts and KPI cards.
+  #### Charts for:
+      - Rating vs Discount Level
+      -Numbers of Products per Category
+      -Product Distribution Rating
+      -Actual Price per Category
+      -Average Discounted Price per Category
+      -Number of Unique Product per Price
+      -Range Bucket
+      -Total Revenue per Category
+  #### KPI cards for:
+      -Total Revenue
+      -Average Rating
+      -Number of Reviews
+      -Average Discount Percentage
+      -Product Count
+      -Count of Products >= 50% Discount
 
 ---
 
