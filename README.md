@@ -50,8 +50,74 @@ This project is presents an indepth analysisof Amazon products,using Microsoft E
 
   ## OBJECTIVES
 
-  - Identify Top performing Products based on Combined Metrics.
-  - Visualize Price trends and discount behaviour.
-  - Understand category-based performance.
-  - Build an Excel Dashboard with cleaned Dataset and Pivot Output
--  
+  - Average Discount Percentage per Product Category.
+  - Numbers of Products Listed per Category.
+  - Total Numbers of Reviews per Category.
+  - Products with the highest Average Ratings.
+  - Average Actual Price vs Discounted Price per Category.
+  - Products with the Highestnumber of Reviews.
+  - Products that have a discount >= 50%.
+  - Distribution of Products Ratings.
+  - Total Potential Revenue( Actual Price * Rating Count) by Category.
+  - Number of Unique Products per Price Range Bucket .
+  - Rating vs Level of Discount.
+  - Numbers of Products with <1000 Reviews.
+  - Categories with products that has Highest Discounts,
+  - Top 5 Products in terms of rating and number of reviews combined.
+  - An Excel Dashboard with cleaned Dataset and Pivot Output.
+
+---
+
+  ## DASHBOARD HIGHLIGHTS
+
+   ### Excel Dashboard with Charts and KPI cards.
+    #### Charts for:
+    #### KPI cards for:
+
+---
+
+ ## TOOLS USED
+
+- **Microsoft Excel**
+  - #####Formulars:
+    -UNIQUE
+    -COUNTIF
+    -SUM
+    -SUMIFS
+    -AVERAGE
+    -AVERAGEIFS
+    -CORREL
+    -ROUND
+    -MAX
+    -INDEX
+    -MATCH
+    -COUNTA
+    -IF
+    -IFS
+    -AND
+    -ISNUMBER
+    -LARGE
+  - #####Charts:
+   -Bar Charts
+   -Clustered Charts
+   -Scatter plots
+   -Column Chart
+ - #####KPI Cards     
+
+---
+
+## AUTHOR
+
+** KOLAPO ILERIOLUWA GREAT-GRACE**
+ASPIRING Data Analyst / Excel. Power BI .SQL /
+
+---
+
+
+
+
+
+
+
+ 
+   
