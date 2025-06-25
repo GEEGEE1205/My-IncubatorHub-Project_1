@@ -32,19 +32,19 @@ This project is to present an indepth analysis of Amazon products,using Microsof
   - Calculated Revenue
   - Engagement Score  
 - **Columns Generated**:
-  -Number of Products per Category
-  -Rating Score
-  -Product >= 50% Discount
-  -Products <1000 Reviews
-  -Discount vs Rating
-  -Products with Highest Avg. Rate
-  -Products with Highest Review
-  -Revenue(Actual Price * Rating Count)
-  -Price Bucket
-  -Project with Highest Discounts
-  -Engagement Score
-  -Top 5 Products
-  -Number of Reviews
+  - Number of Products per Category
+  - Rating Score
+  - Product >= 50% Discount
+  - Products <1000 Reviews
+  - Discount vs Rating
+  - Products with Highest Avg. Rate
+  - Products with Highest Review
+  - Revenue(Actual Price * Rating Count)
+  - Price Bucket
+  - Project with Highest Discounts
+  - Engagement Score
+  - Top 5 Products
+  - Number of Reviews
 
   ---
 
