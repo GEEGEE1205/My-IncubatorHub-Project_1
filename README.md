@@ -1,13 +1,13 @@
 # INCUBATOR HUB PROJECT
 ### TOPIC: AMAZON PRODUCT REVIEW ANALYSIS
-This project is presents an indepth analysisof Amazon products,using Microsoft Excel to uncover insights related to pricing,reviews,ratings and potential revenue.The Dashboard provides key performance indicators (KPIs) and charts to guide business Decisions.
+This project is to presents an indepth analysis of Amazon products,using Microsoft Excel to uncover insights related to pricing,reviews,ratings and potential revenue.The Dashboard provides key performance indicators (KPIs) and charts to guide business Decisions.
 
 ---
 
 ## Dataset Overview
 
 - **Source**:Amazon product listing dataset 
-- **Size**:1466 products
+- **Size**:1465 products
 - **Columns Provided**:
   - Product ID
   - Product Name
