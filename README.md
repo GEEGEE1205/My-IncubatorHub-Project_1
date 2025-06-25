@@ -79,36 +79,36 @@ This project is to present an indepth analysis of Amazon products,using Microsof
  ## TOOLS USED
 
 - **Microsoft Excel**
-  - #####Formulars:
-    -UNIQUE
-    -COUNTIF
-    -SUM
-    -SUMIFS
-    -AVERAGE
-    -AVERAGEIFS
-    -CORREL
-    -ROUND
-    -MAX
-    -INDEX
-    -MATCH
-    -COUNTA
-    -IF
-    -IFS
-    -AND
-    -ISNUMBER
-    -LARGE
-  - #####Charts:
-   -Bar Charts
-   -Clustered Charts
-   -Scatter plots
-   -Column Chart
- - #####KPI Cards     
+  ####  Formulars:
+    - UNIQUE
+    - COUNTIF
+    - SUM
+    - SUMIFS
+    - AVERAGE
+    - AVERAGEIFS
+    - CORREL
+    - ROUND
+    - MAX
+    - INDEX
+    - MATCH
+    - COUNTA
+    - IF
+    - IFS
+    - AND
+    - ISNUMBER
+    - LARGE
+   ##### Charts:
+   - Bar Charts
+   - Clustered Charts
+   - Scatter plots
+   - Column Chart
+ - ##### KPI Cards     
 
 ---
 
 ## AUTHOR
 
-** KOLAPO ILERIOLUWA GREAT-GRACE**
+**KOLAPO ILERIOLUWA GREAT-GRACE**
 ASPIRING Data Analyst / Excel. Power BI .SQL /
 
 ---
