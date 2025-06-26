@@ -7,7 +7,7 @@ This project is to present an indepth analysis of Amazon products,using Microsof
 ## Dataset Overview
 
 - **Source**:Amazon product listing dataset 
-- **Size**:1465 products
+- **Size**:1351 products
 - **Columns Provided**:
   - Product ID
   - Product Name
@@ -24,28 +24,7 @@ This project is to present an indepth analysis of Amazon products,using Microsof
   - Review Content
   - Image Link
   - Product Link
-- **Columns Analyzed**:
-  - Product Name & Category
-  - Actual & Discounted Prices
-  - Ratings & Rating Counts
-  - Discounts (%)
-  - Calculated Revenue
-  - Engagement Score  
-- **Columns Generated**:
-  - Number of Products per Category
-  - Rating Score
-  - Product >= 50% Discount
-  - Products <1000 Reviews
-  - Discount vs Rating
-  - Products with Highest Avg. Rate
-  - Products with Highest Review
-  - Revenue(Actual Price * Rating Count)
-  - Price Bucket
-  - Project with Highest Discounts
-  - Engagement Score
-  - Top 5 Products
-  - Number of Reviews
-
+ 
   ---
 
   ## OBJECTIVES
@@ -65,6 +44,30 @@ This project is to present an indepth analysis of Amazon products,using Microsof
   - Categories with products that has Highest Discounts,
   - Top 5 Products in terms of rating and number of reviews combined.
   - An Excel Dashboard with cleaned Dataset and Pivot Output.
+
+- **Columns Analyzed**:
+  - Product Name & Category
+  - Actual & Discounted Prices
+  - Ratings & Rating Counts
+  - Discounts (%)
+  - Calculated Revenue
+  - Engagement Score
+    
+- **Columns Generated**:
+  - Number of Products per Category
+  - Rating Score
+  - Product >= 50% Discount
+  - Products <1000 Reviews
+  - Discount vs Rating
+  - Products with Highest Avg. Rate
+  - Products with Highest Review
+  - Revenue(Actual Price * Rating Count)
+  - Price Bucket
+  - Project with Highest Discounts
+  - Engagement Score
+  - Top 5 Products
+  - Number of Reviews
+
 
 ---
 
@@ -93,7 +96,8 @@ This project is to present an indepth analysis of Amazon products,using Microsof
  ## TOOLS USED
 
 - **Microsoft Excel**
-  ####  Formulars:
+  ####  Functions used :
+    - REMOVE DUPLICATES
     - UNIQUE
     - COUNTIF
     - SUM
@@ -111,12 +115,15 @@ This project is to present an indepth analysis of Amazon products,using Microsof
     - AND
     - ISNUMBER
     - LARGE
-   ##### Charts:
+    - CORREL
+      
+ - **Charts used**:
    - Bar Charts
    - Clustered Charts
    - Scatter plots
    - Column Chart
- - ##### KPI Cards     
+     
+ - **KPI Cards for**:     
 
 ---
 
