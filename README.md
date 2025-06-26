@@ -7,7 +7,7 @@ This project is to present an indepth analysis of Amazon products,using Microsof
 ## Dataset Overview
 
 - **Source**:Amazon product listing dataset 
-- **Size**:1351 products
+- **Size**:1465 products
 - **Columns Provided**:
   - Product ID
   - Product Name
@@ -44,6 +44,11 @@ This project is to present an indepth analysis of Amazon products,using Microsof
   - Categories with products that has Highest Discounts,
   - Top 5 Products in terms of rating and number of reviews combined.
   - An Excel Dashboard with cleaned Dataset and Pivot Output.
+ 
+  -  ## TOOLS USED
+
+- **Microsoft Excel**
+  
 
 - **Columns Analyzed**:
   - Product Name & Category
@@ -93,10 +98,7 @@ This project is to present an indepth analysis of Amazon products,using Microsof
 
 ---
 
- ## TOOLS USED
-
-- **Microsoft Excel**
-  ####  Functions used :
+##  Functions used :
     - REMOVE DUPLICATES
     - UNIQUE
     - COUNTIF
@@ -118,14 +120,28 @@ This project is to present an indepth analysis of Amazon products,using Microsof
     - CORREL
       
  - **Charts used**:
+   
    - Bar Charts
-   - Clustered Charts
+   - Clustered column Charts
    - Scatter plots
-   - Column Chart
      
- - **KPI Cards for**:     
+ - **KPI Cards for**:
+
+ - Total Revenue
+ - Average Rating
+ - Number of Reviews
+ - Average Discounts
+ - Product Count
+ - Count of Products >= 50% discount
+ - Numbers of Products with <1000 Reviews
+ - Top 5 Products
+ - Products with Highest Avg. Rating
+ - Products with Highest No. of Reviews
+ - Products with Highest Discount
 
 ---
+
+- **Size after Analysis**:1351 products
 
 ## AUTHOR
 
