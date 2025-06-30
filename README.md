@@ -1,5 +1,6 @@
 # INCUBATOR HUB PROJECT
 ### TOPIC: AMAZON PRODUCT REVIEW ANALYSIS
+
 This project is to present an indepth analysis of Amazon products,using Microsoft Excel to uncover insights related to pricing,reviews,ratings and potential revenue.The Dashboard provides key performance indicators (KPIs) and charts to guide business Decisions.
 
 ---
@@ -49,7 +50,6 @@ This project is to present an indepth analysis of Amazon products,using Microsof
 
 - **Microsoft Excel**
   
-
 - **Columns Analyzed**:
   - Product Name & Category
   - Actual & Discounted Prices
@@ -57,6 +57,10 @@ This project is to present an indepth analysis of Amazon products,using Microsof
   - Discounts (%)
   - Calculated Revenue
   - Engagement Score
+    
+During cleaning of the provided dataset, I removed all duplicates from Product ID (Reducing my dataset size from 1465 to 1351) . I also split my Category into sub categories ( Main Category,Level 2 category,Level 3 Category,Level 4 Category).
+  
+Afterwards I deleted unnecessary columns from the provided dataset.
     
 - **Columns Generated**:
   - Number of Products per Category
@@ -73,57 +77,40 @@ This project is to present an indepth analysis of Amazon products,using Microsof
   - Top 5 Products
   - Number of Reviews
 
-
----
-
-  ## DASHBOARD HIGHLIGHTS
-
-  ### Excel Dashboard with Charts and KPI cards.
-  #### Charts for:
-      - Rating vs Discount Level
-      -Numbers of Products per Category
-      -Product Distribution Rating
-      -Actual Price per Category
-      -Average Discounted Price per Category
-      -Number of Unique Product per Price
-      -Range Bucket
-      -Total Revenue per Category
-  #### KPI cards for:
-      -Total Revenue
-      -Average Rating
-      -Number of Reviews
-      -Average Discount Percentage
-      -Product Count
-      -Count of Products >= 50% Discount
-
 ---
 
 ##  Functions used :
-    - REMOVE DUPLICATES
-    - UNIQUE
+    - REMOVE DUPLICATE
     - COUNTIF
     - SUM
-    - SUMIFS
     - AVERAGE
-    - AVERAGEIFS
-    - CORREL
-    - ROUND
     - MAX
-    - INDEX
-    - MATCH
     - COUNTA
     - IF
-    - IFS
-    - AND
-    - ISNUMBER
+    - IF
     - LARGE
-    - CORREL
-      
+
+    
+  ## DASHBOARD HIGHLIGHTS
+
+  ### Excel Dashboard with Charts and KPI cards.
+    
  - **Charts used**:
    
    - Bar Charts
    - Clustered column Charts
    - Scatter plots
+   - Pie Chart
+
+  #### Charts for:
+ - Rating vs Discount Level
+ -Numbers of Products per Category
+ -Product Distribution Rating
+ -Actual Price per Category
+ -Average Discounted Price per Category
+ -Number of Unique Product per Price
+ -Range Bucket
+ -Total Revenue per Category
      
  - **KPI Cards for**:
 
@@ -134,10 +121,10 @@ This project is to present an indepth analysis of Amazon products,using Microsof
  - Product Count
  - Count of Products >= 50% discount
  - Numbers of Products with <1000 Reviews
- - Top 5 Products
- - Products with Highest Avg. Rating
- - Products with Highest No. of Reviews
- - Products with Highest Discount
+ - Top Product
+ - Product with Highest Avg. Rating
+ - Product with Highest No. of Reviews
+ - Product with Highest Discount
 
 ---
 
