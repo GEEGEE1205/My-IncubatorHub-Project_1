@@ -46,40 +46,47 @@ This project is to present an indepth analysis of Amazon products,using Microsof
   - Top 5 Products in terms of rating and number of reviews combined.
   - An Excel Dashboard with cleaned Dataset and Pivot Output.
  
-  -  ## TOOLS USED
+  #### TOOLS USED
 
-- **Microsoft Excel**
+  - Microsoft Excel
   
 - **Columns Analyzed**:
-  - Product Name & Category
-  - Actual & Discounted Prices
-  - Ratings & Rating Counts
+  - Product Name
+  - Product ID
+  - Category
+  - Actual Prices
+  - Discounted Prices
+  - Ratings
+  - Rating Counts
   - Discounts (%)
-  - Calculated Revenue
-  - Engagement Score
-    
+
+---
+
 During cleaning of the provided dataset, I removed all duplicates from Product ID (Reducing my dataset size from 1465 to 1351) . I also split my Category into sub categories ( Main Category,Level 2 category,Level 3 Category,Level 4 Category).
   
 Afterwards I deleted unnecessary columns from the provided dataset.
     
-- **Columns Generated**:
-  - Number of Products per Category
-  - Rating Score
-  - Product >= 50% Discount
-  - Products <1000 Reviews
-  - Discount vs Rating
-  - Products with Highest Avg. Rate
-  - Products with Highest Review
-  - Revenue(Actual Price * Rating Count)
-  - Price Bucket
-  - Project with Highest Discounts
-  - Engagement Score
-  - Top 5 Products
-  - Number of Reviews
-
 ---
 
-##  Functions used :
+- **Columns Generated**:
+  - Main Category
+  - Level 2 Category
+  - Level 3 Category
+  - Level 4 Category
+  - Price Range Bucket
+  - Discount Range
+  - Discount Range Bucket
+  - Total Potential Revenue
+  - Average Rating
+  - Products with >= 50% Discounts
+  - Number of Products by Rating + Number of Reviews
+  - Top 5 Products
+  - Average Discount % by Product Category
+  - Products with Highest Reviews
+  - Products with Highest Average Ratings
+
+ ### Functions used :
+
     - REMOVE DUPLICATE
     - COUNTIF
     - SUM
@@ -87,13 +94,12 @@ Afterwards I deleted unnecessary columns from the provided dataset.
     - MAX
     - COUNTA
     - IF
-    - IF
+    - IFs
     - LARGE
 
-    
-  ## DASHBOARD HIGHLIGHTS
+## DASHBOARD HIGHLIGHTS
 
-  ### Excel Dashboard with Charts and KPI cards.
+### Excel Dashboard with Charts and KPI cards.
     
  - **Charts used**:
    
@@ -102,33 +108,36 @@ Afterwards I deleted unnecessary columns from the provided dataset.
    - Scatter plots
    - Pie Chart
 
-  #### Charts for:
- - Rating vs Discount Level
- -Numbers of Products per Category
- -Product Distribution Rating
- -Actual Price per Category
- -Average Discounted Price per Category
- -Number of Unique Product per Price
- -Range Bucket
- -Total Revenue per Category
+- **Charts for**:
+  
+  - Rating vs Discount Level
+  - Numbers of Products per Category
+  - Product Distribution Rating
+  - Average Discounted Price & Actual Price per Category
+  - Number of Unique Product per Price Range Bucket
+  - Categories with Products with Highest Number of Discounts
+  - Total Potential Revenue per Category
+  - Numbers of Products per Category
+  - Number of Reviews per Category
+  - Top 5 Products by Rating + Number of Reviews
      
- - **KPI Cards for**:
+- **KPI Cards for**:
 
- - Total Revenue
- - Average Rating
- - Number of Reviews
- - Average Discounts
- - Product Count
- - Count of Products >= 50% discount
- - Numbers of Products with <1000 Reviews
- - Top Product
- - Product with Highest Avg. Rating
- - Product with Highest No. of Reviews
- - Product with Highest Discount
+  - Total Revenue
+  - Average Rating
+  - Number of Reviews
+  - Average Discounts
+  - Product Count
+  - Count of Products >= 50% discount
+  - Numbers of Products with <1000 Reviews
+  - Top Product
+  - Product with Highest Avg. Rating
+  - Product with Highest No. of Reviews
+  - Product with Highest Discount
 
 ---
 
-- **Size after Analysis**:1351 products
+- **Dataset Size after Analysis**:1351 products
 
 ## AUTHOR
 
