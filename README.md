@@ -1,7 +1,7 @@
-# INCUBATOR HUB PROJECT
+# DSA INCUBATOR HUB PROJECT
 ### TOPIC: AMAZON PRODUCT REVIEW ANALYSIS
 
-This project is to present an indepth analysis of Amazon products,using Microsoft Excel to uncover insights related to pricing,reviews,ratings and potential revenue.The Dashboard provides key performance indicators (KPIs) and charts to guide business Decisions.
+This project is to present an indepth analysis of Amazon products,using Microsoft Excel to uncover insights related to pricing,reviews,ratings and potential revenue. The Dashboard provides key performance indicators (KPIs) and charts to guide business Decisions.
 
 ---
 
@@ -9,8 +9,8 @@ This project is to present an indepth analysis of Amazon products,using Microsof
 
 - **Source**:Amazon product listing dataset 
 - **Size**:1465 products
-  
- #### OBJECTIVES
+
+#### OBJECTIVES
 
    - Average Discount Percentage per Product Category.
    - Numbers of Products Listed per Category.
@@ -28,22 +28,22 @@ This project is to present an indepth analysis of Amazon products,using Microsof
    - Top 5 Products in terms of rating and number of reviews combined.
    - An Excel Dashboard with cleaned Dataset and Pivot Output.
     
-- **Columns Provided**:
-   - Product ID
-   - Product Name
-   - Category
-   - Discounted Price
-   - Actual Price
-   - Discounted Percentage
-   - Rating
-   - Rating Count
-   - About Product
-   - User ID
-   - Review ID
-   - Review Title
-   - Review Content
-   - Image Link
-   - Product Link
+  - **Columns Provided**:
+       - Product ID
+       - Product Name
+       - Category
+       - Discounted Price
+       - Actual Price
+       - Discounted Percentage
+       - Rating
+       - Rating Count
+       - About Product
+       - User ID
+       - Review ID
+       - Review Title
+       - Review Content
+       - Image Link
+       - Product Link
  
   ---
 
@@ -64,8 +64,10 @@ This project is to present an indepth analysis of Amazon products,using Microsof
 ---
 
 During cleaning of the provided dataset, I removed all duplicates from Product ID (Reducing my dataset size from 1465 to 1351) . I also split my Category into sub categories ( Main Category,Level 2 category,Level 3 Category,Level 4 Category).
-  
-Afterwards I deleted unnecessary columns from the provided dataset.
+
+ I checked out cells with abnormal values and changed the numerical column blank cells to (0). I changed datatypes to the appropriate datatypes. Also I inserted some new calculated columns that are needed for my analysis. Afterwards I deleted unnecessary columns from the dataset.
+
+  Then I proceeded to creating my pivot tables with the refined datasets. With the Pivot tables I created Dashboard consisting KPIs and Charts to summarize my Analysis.
     
 ---
 
@@ -133,6 +135,8 @@ Afterwards I deleted unnecessary columns from the provided dataset.
    - Product with Highest Avg. Rating
    - Product with Highest No. of Reviews
    - Product with Highest Discount
+
+ -  **Pictorial information of the analysis process** :
 
 ---
 
