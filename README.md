@@ -137,6 +137,22 @@ During cleaning of the provided dataset, I removed all duplicates from Product I
    - Product with Highest Discount
 
  -  **Pictorial information of the analysis process** :
+   
+![WhatsApp Image 2025-07-03 at 13 20 18_82e44ef8](https://github.com/user-attachments/assets/5b4b22df-3739-42f2-9534-a436d1a997ac)
+![WhatsApp Image 2025-07-03 at 13 20 18_2ac790d8](https://github.com/user-attachments/assets/27bc1a56-22be-4717-aab8-12c80e7dc04d)
+![WhatsApp Image 2025-07-03 at 13 20 17_fde05475](https://github.com/user-attachments/assets/639cad71-b5b8-4a53-aeca-b41fc1f7f66b)
+![WhatsApp Image 2025-07-03 at 13 20 17_db51c3c5](https://github.com/user-attachments/assets/c2427920-cc56-4cb7-9cfe-f080549fff9d)
+![WhatsApp Image 2025-07-03 at 13 20 17_72d682ca](https://github.com/user-attachments/assets/961f9407-58d3-4b64-89ab-85751debc931)
+![WhatsApp Image 2025-07-03 at 13 20 14_818a918c](https://github.com/user-attachments/assets/f0fd24a3-e765-4a87-842a-1b9b11a8be5c)
+![WhatsApp Image 2025-07-03 at 13 20 12_f81a339d](https://github.com/user-attachments/assets/eff59b65-99ca-4465-9054-a042f711389e)
+![WhatsApp Image 2025-07-03 at 13 20 01_7087df03](https://github.com/user-attachments/assets/a9a94d96-f914-43d1-ab47-11e846c31d6a)
+![WhatsApp Image 2025-07-03 at 13 19 46_9ef6cb2b](https://github.com/user-attachments/assets/e8dd1fb2-62a7-4095-bf3f-107a2515b20b)
+![WhatsApp Image 2025-07-03 at 13 19 44_aa1a91f1](https://github.com/user-attachments/assets/c43223cb-7a85-47d6-af05-bc051477b85b)
+![WhatsApp Image 2025-07-03 at 13 19 31_8c8ac3ff](https://github.com/user-attachments/assets/715f4525-7074-44cc-b36e-35438bde75f9)
+![WhatsApp Image 2025-07-03 at 13 19 29_6f87050d](https://github.com/user-attachments/assets/3390c81a-ea56-4312-8297-9735dd074aeb)
+![WhatsApp Image 2025-07-03 at 13 19 46_9ef6cb2b](https://github.com/user-attachments/assets/7533ae3d-2af2-48eb-99a7-b28ca437deb9)
+![WhatsApp Image 2025-07-03 at 13 19 44_aa1a91f1](https://github.com/user-attachments/assets/9619c572-2bb3-4fda-91af-073664b926eb)
+![WhatsApp Image 2025-07-03 at 13 19 29_6f87050d](https://github.com/user-attachments/assets/23d9e88f-0b54-436a-8df4-66167a8d24e1)
 
 ---
 
@@ -145,21 +161,18 @@ During cleaning of the provided dataset, I removed all duplicates from Product I
 #### AUTHOR
 
 **KOLAPO ILERIOLUWA GREAT-GRACE**
- Data Analyst / Excel. Power BI .SQL /
+ Data Analyst / Excel. Power BI . SQL/
+
+
+
+
+
+
+
+
+
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
 
 ### TOPIC: Palmoria Group HR Analysis
 
@@ -275,8 +288,33 @@ This project is to Analyze the company Data and generate insights Palmoria group
   - Region & Department
   - Gender
   - Region
-  
----
+
+-  **Pictorial information of the analysis process** :
+![WhatsApp Image 2025-07-03 at 14 30 51_86d76deb](https://github.com/user-attachments/assets/d7addbdf-c022-41d5-ad4d-f08293fde82a)
+![WhatsApp Image 2025-07-03 at 14 30 46_5b9d0b72](https://github.com/user-attachments/assets/4eb371c5-5383-4127-af1f-1fac98049c63)
+![WhatsApp Image 2025-07-03 at 14 30 59_caf32efe](https://github.com/user-attachments/assets/334c3a99-469d-46e0-a74a-49f18dd5b3c3)
+![WhatsApp Image 2025-07-03 at 14 30 58_2b205f61](https://github.com/user-attachments/assets/72a13c38-bc1b-468c-b65d-464ae297ab31)
+![WhatsApp Image 2025-07-03 at 14 30 59_0d0b77c7](https://github.com/user-attachments/assets/1c368e8a-9fb7-442b-b24e-1784bf711506)
+![WhatsApp Image 2025-07-03 at 14 30 59_25c9bace](https://github.com/user-attachments/assets/60d3c740-261c-4464-bc66-3f716cca0ee5)
+![WhatsApp Image 2025-07-03 at 14 31 07_48dad3bc](https://github.com/user-attachments/assets/93b9b93e-6ce6-4a3c-aa44-e697052eac13)
+![WhatsApp Image 2025-07-03 at 14 31 07_2a518414](https://github.com/user-attachments/assets/05ae7648-3634-4a62-9c14-eea97fe1dc14)
+![WhatsApp Image 2025-07-03 at 14 31 09_ac3b2196](https://github.com/user-attachments/assets/78eed29e-5a91-47f0-92df-6ce62764d63b)
+![WhatsApp Image 2025-07-03 at 14 31 08_8a821075](https://github.com/user-attachments/assets/25ffaf5d-1c6f-49d3-9710-0a6ce8f92928)
+![WhatsApp Image 2025-07-03 at 14 30 59_0d0b77c7](https://github.com/user-attachments/assets/8498b367-2483-4511-b54d-4a090b62c11f)
+![WhatsApp Image 2025-07-03 at 14 30 58_2b205f61](https://github.com/user-attachments/assets/9725eb1a-ddc3-4cd1-97dd-9d998d502b93)
+![WhatsApp Image 2025-07-03 at 14 30 59_caf32efe](https://github.com/user-attachments/assets/996d9f5c-6d43-44d7-9e68-5078407606b3)
+![WhatsApp Image 2025-07-03 at 14 30 59_25c9bace](https://github.com/user-attachments/assets/f94c0c71-1176-4246-af59-d223d20731af)
+![WhatsApp Image 2025-07-03 at 14 31 07_48dad3bc](https://github.com/user-attachments/assets/866c050a-4136-4c9c-b2c5-752bcb98163c)
+![WhatsApp Image 2025-07-03 at 14 31 07_2a518414](https://github.com/user-attachments/assets/0403d109-16f8-477e-b302-24ff1e950517)
+![WhatsApp Image 2025-07-03 at 14 32 34_bfb4bfb0](https://github.com/user-attachments/assets/777b7fe6-668c-4dd9-8468-6375a6269ca5)
+![WhatsApp Image 2025-07-03 at 14 32 34_07a8f513](https://github.com/user-attachments/assets/071c170e-de79-475a-9d4f-722152d61f00)
+![WhatsApp Image 2025-07-03 at 14 32 31_be350356](https://github.com/user-attachments/assets/1eeab198-3735-4fc3-bdb7-ac3fc99b1fe8)
+![WhatsApp Image 2025-07-03 at 14 32 37_3b5f0a28](https://github.com/user-attachments/assets/0ae56fc4-edac-4c7d-b9f2-ade2271ad6bd)
+![WhatsApp Image 2025-07-03 at 14 32 41_e5736bcc](https://github.com/user-attachments/assets/1576e118-a498-4ed5-be57-8b5855c0ebe9)
+![WhatsApp Image 2025-07-03 at 14 32 41_432c94e6](https://github.com/user-attachments/assets/ee066ae0-dd96-4f08-8073-1272a5c616b3)
+![WhatsApp Image 2025-07-03 at 14 32 39_5678f026](https://github.com/user-attachments/assets/cd45e46a-7a83-4a61-b7cf-a9b76e2f8c65)
+![WhatsApp Image 2025-07-03 at 14 32 38_bfb53ab8](https://github.com/user-attachments/assets/6809ec64-67fc-4696-8122-828a2c046d24)
+
 
 - **Dataset Size after Analysis**: 946 Rows
 
