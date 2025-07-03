@@ -211,7 +211,7 @@ This project is to Analyze the company Data and generate insights Palmoria group
  
  While trying to apply the bonus Rules for the Dataset, and also imported the bonus rules (excel mode) into my powerBI query editor field.I Re-Arranged it by Unpivoting columns except the Department column .I created a unique relationship for both tables  by creating custom columns on both table (Department Rating). I merged both tables for transformation (Using the Merge Query). 
 
- Afterwards I cleaned datasets,checked the Data quality,Data Distribution,column profile,Renamed column to suit my Requirements,rCeated custom columns and conditional columns to generate necessary required columns for the analysis.
+ Afterwards I cleaned datasets,checked the Data quality,Data Distribution,column profile,Renamed column to suit my Requirements,Created custom columns and conditional columns to generate necessary required columns for the analysis.
  Then proceeded to creating Measures and Columns on my Model interface to generate fields needed for my visualization.
     
 ---
