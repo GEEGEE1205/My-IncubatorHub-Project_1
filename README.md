@@ -136,6 +136,40 @@ During cleaning of the provided dataset, I removed all duplicates from Product I
    - Product with Highest No. of Reviews
    - Product with Highest Discount
 
+- **Key Insights**:
+ 
+- **Product Overview**
+    - Products span multiple sub-categories under broader categories like Computers & Accessories, Mobiles, etc.
+    - Majority of products fall into mid-range price buckets (₹200–₹500).
+
+ -  **Discount Analysis**:
+      - Average Discount % varies by category; some exceed 80%.
+      - Over 60% of products have a ≥50% discount, indicating aggressive pricing.
+      - Top categories with heavy discounts include accessories and cables.
+
+-  **Customer Engagement**:
+     - Rating values cluster heavily around 4.0 and 5.0, showing high satisfaction.
+     - Some products have 0 reviews, suggesting either new entries or low visibility.
+     - The product with the most reviews: B07KSMBL2H
+     - The product with the highest average rating: B09ZHCJDP1
+
+-  **Revenue Potential**:
+     - Total Potential Revenue = Actual Price × Rating Count calculated for each product.
+     - High-value categories: Electronics, Phone Accessories.
+     - Several products with low prices and high review counts show significant potential.
+
+-  **Top Performers**:
+     - Top 5 products calculated using:= Average Rating + (Rating Count ÷ 1000)
+
+-  **Dashboard Features**: 
+     - Pivot Charts: Used to visualize discount vs rating, revenue by category, etc.
+     - KPIs
+       
+- **Recommendations**:
+    - Focus marketing on high-rating but low-review products to build momentum.
+    - Invest in categories with high revenue potential but low visibility.
+    - Consider bundling low-priced accessories with flagship products.
+
  -  **Pictorial information of the analysis process** :
    
 ![WhatsApp Image 2025-07-03 at 13 20 18_82e44ef8](https://github.com/user-attachments/assets/5b4b22df-3739-42f2-9534-a436d1a997ac)
