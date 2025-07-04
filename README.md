@@ -243,9 +243,11 @@ This project is to Analyze the company Data and generate insights Palmoria group
   ---
 
   #### TOOLS USED
-
-  - Microsoft PowerBI
   
+    - Power BI (for visualization, transformation, DAX)
+    - Excel (for initial data cleaning and bonus rule setup)
+    - Power Query Editor (data profiling, merging, and shaping)
+     
 - **Columns Analyzed**:
    - Name
    - Gender
@@ -323,7 +325,30 @@ This project is to Analyze the company Data and generate insights Palmoria group
   - Gender
   - Region
 
+-  **Key Insights**:
+  
+     - Gender Imbalance persists in several departments and locations
+     - Evidence of a gender pay gap, especially in higher-paid roles
+     - Ratings appear biased in some cases, affecting bonus allocations
+     - Several employees earn below the minimum threshold
+     - The bonus system needs refinement for fair and transparent distribution
+
+-  **Recommendations**:
+
+  - Promote Gender Equality Across Departments and Regions. Set measurable gender diversity targets in recruitment and internal promotions to ensure equal representation.
+
+  - Address the Gender Pay Gap. Conduct a comprehensive salary audit and implement a standardized pay structure that eliminates disparity for roles with similar job grades and responsibilities.
+
+  - Review Rating & Bonus Allocation Processes. Train supervisors on fair performance appraisal practices and introduce multi-rater (360°) evaluations to reduce bias. Also Automate bonus calculations using transparent rules integrated into HR systems.
+
+   - Ensure Compliance with Minimum Wage Policies. Enforce a minimum salary policy across all regions and departments, and adjust non-compliant salaries accordingly.
+
+   - Maintain Accurate and Updated Employee Records. Regularly audit and update HR databases to remove exited employees and obsolete departments.
+
+   - Leverage Data for HR Decision-Making. Implement routine dashboard reporting for key HR metrics like gender parity, salary distribution, and employee performance.
+
 -  **Pictorial information of the analysis process** :
+  
 ![WhatsApp Image 2025-07-03 at 14 30 51_86d76deb](https://github.com/user-attachments/assets/d7addbdf-c022-41d5-ad4d-f08293fde82a)
 ![WhatsApp Image 2025-07-03 at 14 30 46_5b9d0b72](https://github.com/user-attachments/assets/4eb371c5-5383-4127-af1f-1fac98049c63)
 ![WhatsApp Image 2025-07-03 at 14 30 59_caf32efe](https://github.com/user-attachments/assets/334c3a99-469d-46e0-a74a-49f18dd5b3c3)
