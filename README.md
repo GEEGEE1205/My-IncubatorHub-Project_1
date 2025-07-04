@@ -244,9 +244,9 @@ This project is to Analyze the company Data and generate insights Palmoria group
 
   #### TOOLS USED
   
-    - Power BI (for visualization, transformation, DAX)
-    - Excel (for initial data cleaning and bonus rule setup)
-    - Power Query Editor (data profiling, merging, and shaping)
+  - Power BI (for transformation,visualization, DAX)
+  - Excel (for data cleaning and bonus rule setup)
+  - Power Query Editor (data profiling and Merging)
      
 - **Columns Analyzed**:
    - Name
