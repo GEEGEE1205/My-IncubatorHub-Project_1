@@ -335,17 +335,17 @@ This project is to Analyze the company Data and generate insights Palmoria group
 
 -  **Recommendations**:
 
-  - Promote Gender Equality Across Departments and Regions. Set measurable gender diversity targets in recruitment and internal promotions to ensure equal representation.
+     - Promote Gender Equality Across Departments and Regions. Set measurable gender diversity targets in recruitment and internal promotions to ensure equal representation.
 
-  - Address the Gender Pay Gap. Conduct a comprehensive salary audit and implement a standardized pay structure that eliminates disparity for roles with similar job grades and responsibilities.
+     - Address the Gender Pay Gap. Conduct a comprehensive salary audit and implement a standardized pay structure that eliminates disparity for roles with similar job grades and responsibilities.
 
-  - Review Rating & Bonus Allocation Processes. Train supervisors on fair performance appraisal practices and introduce multi-rater (360°) evaluations to reduce bias. Also Automate bonus calculations using transparent rules integrated into HR systems.
+     - Review Rating & Bonus Allocation Processes. Train supervisors on fair performance appraisal practices and introduce multi-rater (360°) evaluations to reduce bias. Also Automate bonus calculations using transparent rules integrated into HR systems.
 
-   - Ensure Compliance with Minimum Wage Policies. Enforce a minimum salary policy across all regions and departments, and adjust non-compliant salaries accordingly.
+     - Ensure Compliance with Minimum Wage Policies. Enforce a minimum salary policy across all regions and departments, and adjust non-compliant salaries accordingly.
 
-   - Maintain Accurate and Updated Employee Records. Regularly audit and update HR databases to remove exited employees and obsolete departments.
+     - Maintain Accurate and Updated Employee Records. Regularly audit and update HR databases to remove exited employees and obsolete departments.
 
-   - Leverage Data for HR Decision-Making. Implement routine dashboard reporting for key HR metrics like gender parity, salary distribution, and employee performance.
+     - Leverage Data for HR Decision-Making. Implement routine dashboard reporting for key HR metrics like gender parity, salary distribution, and employee performance.
 
 -  **Pictorial information of the analysis process** :
   
