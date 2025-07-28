@@ -373,6 +373,8 @@ This project is to Analyze the company Data and generate insights Palmoria group
 ![WhatsApp Image 2025-07-03 at 14 32 41_432c94e6](https://github.com/user-attachments/assets/ee066ae0-dd96-4f08-8073-1272a5c616b3)
 ![WhatsApp Image 2025-07-03 at 14 32 39_5678f026](https://github.com/user-attachments/assets/cd45e46a-7a83-4a61-b7cf-a9b76e2f8c65)
 ![WhatsApp Image 2025-07-03 at 14 32 38_bfb53ab8](https://github.com/user-attachments/assets/6809ec64-67fc-4696-8122-828a2c046d24)
+<img width="828" height="528" alt="Palmoria group dashboard 2" src="https://github.com/user-attachments/assets/ab3a7589-723d-4d37-b350-584727402e16" />
+<img width="955" height="533" alt="Palmoria group dashboard 1" src="https://github.com/user-attachments/assets/2d43dbe3-a137-4269-aa27-366bf0444857" />
 
 
 - **Dataset Size after Analysis**: 946 Rows
