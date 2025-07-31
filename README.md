@@ -172,22 +172,16 @@ During cleaning of the provided dataset, I removed all duplicates from Product I
 
  -  **Pictorial information of the analysis process** :
    
-![WhatsApp Image 2025-07-03 at 13 20 18_82e44ef8](https://github.com/user-attachments/assets/5b4b22df-3739-42f2-9534-a436d1a997ac)
-![WhatsApp Image 2025-07-03 at 13 20 18_2ac790d8](https://github.com/user-attachments/assets/27bc1a56-22be-4717-aab8-12c80e7dc04d)
-![WhatsApp Image 2025-07-03 at 13 20 17_fde05475](https://github.com/user-attachments/assets/639cad71-b5b8-4a53-aeca-b41fc1f7f66b)
-![WhatsApp Image 2025-07-03 at 13 20 17_db51c3c5](https://github.com/user-attachments/assets/c2427920-cc56-4cb7-9cfe-f080549fff9d)
-![WhatsApp Image 2025-07-03 at 13 20 17_72d682ca](https://github.com/user-attachments/assets/961f9407-58d3-4b64-89ab-85751debc931)
-![WhatsApp Image 2025-07-03 at 13 20 14_818a918c](https://github.com/user-attachments/assets/f0fd24a3-e765-4a87-842a-1b9b11a8be5c)
-![WhatsApp Image 2025-07-03 at 13 20 12_f81a339d](https://github.com/user-attachments/assets/eff59b65-99ca-4465-9054-a042f711389e)
-![WhatsApp Image 2025-07-03 at 13 20 01_7087df03](https://github.com/user-attachments/assets/a9a94d96-f914-43d1-ab47-11e846c31d6a)
-![WhatsApp Image 2025-07-03 at 13 19 46_9ef6cb2b](https://github.com/user-attachments/assets/e8dd1fb2-62a7-4095-bf3f-107a2515b20b)
-![WhatsApp Image 2025-07-03 at 13 19 44_aa1a91f1](https://github.com/user-attachments/assets/c43223cb-7a85-47d6-af05-bc051477b85b)
-![WhatsApp Image 2025-07-03 at 13 19 31_8c8ac3ff](https://github.com/user-attachments/assets/715f4525-7074-44cc-b36e-35438bde75f9)
-![WhatsApp Image 2025-07-03 at 13 19 29_6f87050d](https://github.com/user-attachments/assets/3390c81a-ea56-4312-8297-9735dd074aeb)
-![WhatsApp Image 2025-07-03 at 13 19 46_9ef6cb2b](https://github.com/user-attachments/assets/7533ae3d-2af2-48eb-99a7-b28ca437deb9)
-![WhatsApp Image 2025-07-03 at 13 19 44_aa1a91f1](https://github.com/user-attachments/assets/9619c572-2bb3-4fda-91af-073664b926eb)
-![WhatsApp Image 2025-07-03 at 13 19 29_6f87050d](https://github.com/user-attachments/assets/23d9e88f-0b54-436a-8df4-66167a8d24e1)
-![Uploading Amazon Product Dashboard.png…]()
+<img width="1110" height="768" alt="Amazon product worksheet 3" src="https://github.com/user-attachments/assets/8c25204f-ffb7-46cd-9cd4-c9ba724f89f9" />
+<img width="1279" height="761" alt="Amazon Product worksheet 2" src="https://github.com/user-attachments/assets/10133a92-f787-4410-a980-0d23eb20cc8f" />
+<img width="1366" height="768" alt="Amazon product worksheet 1" src="https://github.com/user-attachments/assets/57ea1109-50d9-4c28-8ed4-12319e0706ea" />
+<img width="590" height="671" alt="Amazon product pivot table 4" src="https://github.com/user-attachments/assets/f8d4d98c-2244-4645-80f9-4af15358c53a" />
+<img width="1043" height="748" alt="Amazon product Pivot table 3" src="https://github.com/user-attachments/assets/808cf58d-8efb-4b66-8a9c-427712b82692" />
+<img width="458" height="748" alt="Amazon product pivot table 2" src="https://github.com/user-attachments/assets/a59c97d1-5ceb-4ce9-a21a-2f394142bea9" />
+<img width="1156" height="768" alt="Amazon product pivot table 1" src="https://github.com/user-attachments/assets/bc4bbc65-eaa1-41a9-a28d-fc45f44d875c" />
+<img width="1259" height="445" alt="Amazon Product Dashboard" src="https://github.com/user-attachments/assets/023ddf4a-f2ee-459f-ac27-24a415847757" />
+<img width="1126" height="748" alt="Amazon product worksheet 4" src="https://github.com/user-attachments/assets/3e7babbc-97da-40b4-86cf-434e4671b4e0" />
+
 
 ---
 
