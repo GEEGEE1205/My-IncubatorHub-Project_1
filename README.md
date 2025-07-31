@@ -187,6 +187,7 @@ During cleaning of the provided dataset, I removed all duplicates from Product I
 ![WhatsApp Image 2025-07-03 at 13 19 46_9ef6cb2b](https://github.com/user-attachments/assets/7533ae3d-2af2-48eb-99a7-b28ca437deb9)
 ![WhatsApp Image 2025-07-03 at 13 19 44_aa1a91f1](https://github.com/user-attachments/assets/9619c572-2bb3-4fda-91af-073664b926eb)
 ![WhatsApp Image 2025-07-03 at 13 19 29_6f87050d](https://github.com/user-attachments/assets/23d9e88f-0b54-436a-8df4-66167a8d24e1)
+![Uploading Amazon Product Dashboard.png…]()
 
 ---
 
