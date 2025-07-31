@@ -344,6 +344,13 @@ This project is to Analyze the company Data and generate insights Palmoria group
 
 -  **Pictorial information of the analysis process** :
   
+<img width="1302" height="768" alt="Palmoria group Table" src="https://github.com/user-attachments/assets/b161495a-11fd-4566-a665-f662ac68170a" />
+<img width="1309" height="764" alt="Palmoria group Table model" src="https://github.com/user-attachments/assets/c94bbabc-9b10-46b6-ae29-db8db903f88f" />
+<img width="651" height="597" alt="Palmoria group Table 4" src="https://github.com/user-attachments/assets/4d730f0a-3f81-4cc4-b6bc-a82bceb96c79" />
+<img width="1366" height="768" alt="Palmoria group Table 3" src="https://github.com/user-attachments/assets/5c58ce4a-2b76-40ef-9d74-c0dd0a654ed9" />
+<img width="1309" height="761" alt="Palmoria group Table 2" src="https://github.com/user-attachments/assets/b2d0af5d-dd6a-4b33-8e9e-35acd933e543" />
+<img width="828" height="528" alt="Palmoria group dashboard 2" src="https://github.com/user-attachments/assets/be2d3f43-7611-4a03-8199-5d4a98be9cd8" />
+<img width="955" height="533" alt="Palmoria group dashboard 1" src="https://github.com/user-attachments/assets/d3eda1da-800c-4a00-8b0b-e8dac5986392" />
 
 
 
