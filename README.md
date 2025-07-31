@@ -344,32 +344,7 @@ This project is to Analyze the company Data and generate insights Palmoria group
 
 -  **Pictorial information of the analysis process** :
   
-![WhatsApp Image 2025-07-03 at 14 30 51_86d76deb](https://github.com/user-attachments/assets/d7addbdf-c022-41d5-ad4d-f08293fde82a)
-![WhatsApp Image 2025-07-03 at 14 30 46_5b9d0b72](https://github.com/user-attachments/assets/4eb371c5-5383-4127-af1f-1fac98049c63)
-![WhatsApp Image 2025-07-03 at 14 30 59_caf32efe](https://github.com/user-attachments/assets/334c3a99-469d-46e0-a74a-49f18dd5b3c3)
-![WhatsApp Image 2025-07-03 at 14 30 58_2b205f61](https://github.com/user-attachments/assets/72a13c38-bc1b-468c-b65d-464ae297ab31)
-![WhatsApp Image 2025-07-03 at 14 30 59_0d0b77c7](https://github.com/user-attachments/assets/1c368e8a-9fb7-442b-b24e-1784bf711506)
-![WhatsApp Image 2025-07-03 at 14 30 59_25c9bace](https://github.com/user-attachments/assets/60d3c740-261c-4464-bc66-3f716cca0ee5)
-![WhatsApp Image 2025-07-03 at 14 31 07_48dad3bc](https://github.com/user-attachments/assets/93b9b93e-6ce6-4a3c-aa44-e697052eac13)
-![WhatsApp Image 2025-07-03 at 14 31 07_2a518414](https://github.com/user-attachments/assets/05ae7648-3634-4a62-9c14-eea97fe1dc14)
-![WhatsApp Image 2025-07-03 at 14 31 09_ac3b2196](https://github.com/user-attachments/assets/78eed29e-5a91-47f0-92df-6ce62764d63b)
-![WhatsApp Image 2025-07-03 at 14 31 08_8a821075](https://github.com/user-attachments/assets/25ffaf5d-1c6f-49d3-9710-0a6ce8f92928)
-![WhatsApp Image 2025-07-03 at 14 30 59_0d0b77c7](https://github.com/user-attachments/assets/8498b367-2483-4511-b54d-4a090b62c11f)
-![WhatsApp Image 2025-07-03 at 14 30 58_2b205f61](https://github.com/user-attachments/assets/9725eb1a-ddc3-4cd1-97dd-9d998d502b93)
-![WhatsApp Image 2025-07-03 at 14 30 59_caf32efe](https://github.com/user-attachments/assets/996d9f5c-6d43-44d7-9e68-5078407606b3)
-![WhatsApp Image 2025-07-03 at 14 30 59_25c9bace](https://github.com/user-attachments/assets/f94c0c71-1176-4246-af59-d223d20731af)
-![WhatsApp Image 2025-07-03 at 14 31 07_48dad3bc](https://github.com/user-attachments/assets/866c050a-4136-4c9c-b2c5-752bcb98163c)
-![WhatsApp Image 2025-07-03 at 14 31 07_2a518414](https://github.com/user-attachments/assets/0403d109-16f8-477e-b302-24ff1e950517)
-![WhatsApp Image 2025-07-03 at 14 32 34_bfb4bfb0](https://github.com/user-attachments/assets/777b7fe6-668c-4dd9-8468-6375a6269ca5)
-![WhatsApp Image 2025-07-03 at 14 32 34_07a8f513](https://github.com/user-attachments/assets/071c170e-de79-475a-9d4f-722152d61f00)
-![WhatsApp Image 2025-07-03 at 14 32 31_be350356](https://github.com/user-attachments/assets/1eeab198-3735-4fc3-bdb7-ac3fc99b1fe8)
-![WhatsApp Image 2025-07-03 at 14 32 37_3b5f0a28](https://github.com/user-attachments/assets/0ae56fc4-edac-4c7d-b9f2-ade2271ad6bd)
-![WhatsApp Image 2025-07-03 at 14 32 41_e5736bcc](https://github.com/user-attachments/assets/1576e118-a498-4ed5-be57-8b5855c0ebe9)
-![WhatsApp Image 2025-07-03 at 14 32 41_432c94e6](https://github.com/user-attachments/assets/ee066ae0-dd96-4f08-8073-1272a5c616b3)
-![WhatsApp Image 2025-07-03 at 14 32 39_5678f026](https://github.com/user-attachments/assets/cd45e46a-7a83-4a61-b7cf-a9b76e2f8c65)
-![WhatsApp Image 2025-07-03 at 14 32 38_bfb53ab8](https://github.com/user-attachments/assets/6809ec64-67fc-4696-8122-828a2c046d24)
-<img width="828" height="528" alt="Palmoria group dashboard 2" src="https://github.com/user-attachments/assets/ab3a7589-723d-4d37-b350-584727402e16" />
-<img width="955" height="533" alt="Palmoria group dashboard 1" src="https://github.com/user-attachments/assets/2d43dbe3-a137-4269-aa27-366bf0444857" />
+
 
 
 - **Dataset Size after Analysis**: 946 Rows
